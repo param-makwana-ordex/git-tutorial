@@ -1,1 +1,2 @@
 this is 1st git's first util file here 
+for commit in git command is -> git commit -m "version name or any other name that you want to give for that changes"
